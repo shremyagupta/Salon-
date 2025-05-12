@@ -1,0 +1,13 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f8f9fa;
+}
+header {
+  background: url('images/salon-banner.jpg') no-repeat center center/cover;
+  color: white;
+  padding: 100px 0;
+}
+
+.home-title{
+    color: black;
+}
